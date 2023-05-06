@@ -60,5 +60,4 @@ console.log(`Salário total de Junho: ${salarioTotalJunho}`);
 
 const mediaSalarial = (salarioTotalJaneiro + salarioTotalFevereiro + salarioTotalMarco + salarioTotalAbril + salarioTotalMaio + salarioTotalJunho) / 6
 
-console.log(mediaSalarial);
 
