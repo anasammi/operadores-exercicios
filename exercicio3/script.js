@@ -23,6 +23,7 @@ const comissaoAbril = 1874 * comissao
 const comissaoMaio = 7000 * comissao
 const comissaoJunho = 9450*comissao
 
+
 console.log(`Comissão do mês de janeiro: ${comissaoJaneiro}`)
 
 const salarioJaneiro = salario + comissaoJaneiro
